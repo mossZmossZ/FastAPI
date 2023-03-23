@@ -4,7 +4,6 @@ from fastapi import FastAPI, HTTPException
 import json
 from pydantic import BaseModel
 import pandas as pd
-import pandas as pd
 import altair as alt
 #import altair_viewer
 
